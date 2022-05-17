@@ -1,7 +1,7 @@
 # Site settings
-title: Annie's Kitchen
-description: Homecooked Malaysian-Chinese cuisine in Wichita, Kansas
-keywords: Malaysian, Chinese, Food
-author: Annie Low
+title: Anyone can be an Artist!
+description: Choose your distribution:
+keywords: probability, distributions, art, generative
+author: Allison Tee
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
