@@ -1,10 +1,7 @@
 ---
-title:  "I scream"
-subtitle: "But do you scream?"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+title:  "Expoential"
+subtitle: "The distribution for the amount of time before something occurs."
 image: "img/e.jpg"
-date:   2015-04-24 12:12:12
 ---
 
 ### Dolor sit amet?
