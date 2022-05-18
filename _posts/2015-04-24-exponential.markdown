@@ -1,7 +1,7 @@
 ---
 title:  "Exponential"
 subtitle: "The distribution for the amount of time before something occurs."
-image: "img/exponential (2).jpg"
+image: "img/exponential (2).JPG"
 ---
 
 ### Dolor sit amet?
