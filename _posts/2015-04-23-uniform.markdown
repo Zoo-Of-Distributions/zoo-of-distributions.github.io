@@ -1,6 +1,6 @@
 ---
 title:  "Uniform"
-subtitle: "The "easiest" distribution to understand. Literally a rectangle."
+subtitle: "The 'easiest' distribution to understand. Literally a rectangle."
 image: "img/curry-puffs.jpg"
 date:   2015-04-23 12:12:12
 ---
