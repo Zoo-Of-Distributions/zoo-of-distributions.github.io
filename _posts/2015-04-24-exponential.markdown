@@ -1,5 +1,5 @@
 ---
-title:  "Expoential"
+title:  "Exponential"
 subtitle: "The distribution for the amount of time before something occurs."
 image: "img/e.jpg"
 ---
