@@ -1,7 +1,7 @@
 ---
 title:  "Geometric"
 subtitle: "'At first you don't succeed, try, try again.' This distribution maps the number of times you need to attempt something before finally succeeding."
-image: "img/geometric (2).png"
+image: "img/geometric.jpg"
 date:   2015-04-20 12:12:12
 ---
 
