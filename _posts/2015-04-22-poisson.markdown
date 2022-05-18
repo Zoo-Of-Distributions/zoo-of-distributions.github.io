@@ -1,7 +1,7 @@
 ---
 title:  "Poisson"
 subtitle: "Despite its name, this distribution is not toxic. Measures the amount of times something occurs within a given period."
-image: "img/poisson (2).png"
+image: "img/poisson.jpg"
 date:   2015-04-22 12:12:12
 ---
 
