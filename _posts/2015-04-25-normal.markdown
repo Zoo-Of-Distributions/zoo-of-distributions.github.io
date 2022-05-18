@@ -1,7 +1,7 @@
 ---
 title:  "Normal"
 subtitle: "The poster child of distributions. Shows up the most often."
-image: "img/f.jpg"
+image: "img/normal.jpg"
 ---
 
 ### Dolor sit amet?
