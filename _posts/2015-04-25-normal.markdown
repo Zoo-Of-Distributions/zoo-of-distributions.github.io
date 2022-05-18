@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi
 
 ### Try it yourself!
 Edit the parameters below and colors to create your colony of living normal distributions:
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="dydvjdZ" data-user="worldsenddunce" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="result" data-slug-hash="dydvjdZ" data-user="worldsenddunce" style="height: 400px; width: 400px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/worldsenddunce/pen/dydvjdZ">
   Living Normal</a> by Ari (<a href="https://codepen.io/worldsenddunce">@worldsenddunce</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
