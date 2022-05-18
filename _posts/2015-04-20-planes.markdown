@@ -1,8 +1,6 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
-avatar: "img/authors/wferr.png"
+title:  "Geometric"
+subtitle: "'At first you don't succeed, try, try again.' This distribution maps the number of times you need to attempt something before finally succeeding."
 image: "img/a.jpg"
 date:   2015-04-20 12:12:12
 ---
