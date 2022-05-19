@@ -3,16 +3,16 @@ title:  "Normal"
 subtitle: "The poster child of distributions. Shows up the most often."
 image: "img/normal.jpg"
 ---
-#
-The Normal disribution, AKA Gaussian or bell curve, is the distribution for many natural phenomena such as height (many people are around average height, with few tall and short people), IQ, shoe size, etc. The distribution of sample measures of even the weirdest distributions also tend towards the Normal (something called the [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem){:target="_blank"}).
+### About
+The Normal disribution, AKA Gaussian or bell curve, is the distribution for many natural phenomena such as height (many people are around average height, with fewer tall and short people), IQ, shoe size, etc. The graph of sample measures of even the weirdest distributions also tend towards the Normal (something called the [Central Limit Theorem](https://en.wikipedia.org/wiki/Central_limit_theorem){:target="_blank"}).
 
 ### Creating (Better Than) Normal Art:
-The Normal can be defined using two parameters: mean (the average value of something) and variance (how spread out the distribution is-- though for our cases, we'll use the standard deviation, which is the square root of the variance). You can use normal distributions and a bit of computer magic to create art!
-Experiment with the parameters below and colors to create your colony of living normal distributions:
+The Normal can be defined using two parameters: mean (the average value of something) and variance (how spread out the distribution is-- though for our cases, we'll use the standard deviation, which is the square root of the variance). You can use normal distributions and a bit of computer magic to create unique, probabilistic art!
+Experiment with the parameters below and colors to create your colony of living 2D normal distributions:
 <p class="codepen" data-height="619" data-theme-id="dark" data-default-tab="result" data-slug-hash="dydvjdZ" data-user="worldsenddunce" style="height: 619px; width: 270px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/worldsenddunce/pen/dydvjdZ">
   Living Normal</a> by Ari (<a href="https://codepen.io/worldsenddunce">@worldsenddunce</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-Notice that brighter colors correspond with denser parts of the distribution. The densest part of the normal is always around your specified mean location (the horizontal and vertical positioning of your normal). You can shrink or grow the width of your normal by changing the standard deviation as well.
+Notice that brighter colors correspond with denser parts of the distribution. The densest part of the normal is always around your specified mean location (the horizontal and vertical positioning). You can shrink or grow the width of your normal by changing the standard deviation as well.
