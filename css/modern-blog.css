@@ -285,6 +285,7 @@ a:focus {
 
 .links a {
 	display: inline-block;
+	color: #FF69B4;
 	margin: 0 .5em;
 }
 
