@@ -8,7 +8,7 @@ Imagine every event in a collection of events occuring with the same chance. Tha
 ### A lovely quilt
 Although the uniform distribution is very graphically predictable, we can still create art with it, in the form of a probabilistic quilt! 
 In this scenario, you're a quilt-maker with fabric of every imaginable color available to you. You close your eyes and randomly point to and select one color of fabric for each quilt patch, roll a die to choose one of six patterns for the patch, flip a coin to decide whether you want to stitch a circle onto the quilt, and roll another die to determine the pattern for the circle.
-The result would look something like this:
+Repeat this process 16 times for each patch, and the result would look something like this:
 <p class="codepen" data-height="558" data-theme-id="dark" data-default-tab="result" data-slug-hash="VwQbdwO" data-user="worldsenddunce" style="height: 558px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/worldsenddunce/pen/VwQbdwO">
   Uniform Quilt</a> by Ari (<a href="https://codepen.io/worldsenddunce">@worldsenddunce</a>)
