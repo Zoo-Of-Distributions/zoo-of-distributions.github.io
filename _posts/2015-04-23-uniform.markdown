@@ -5,7 +5,7 @@ image: "img/uniform.jpg"
 date:   2015-04-23 12:12:12
 ---
 Imagine every event in a collection of events occuring with the same chance. That's the uniform distribution. Examples of this would be each outcome for a die roll, fair coin flip, or random pick from a deck of cards.
-### A lovely, uniform quilt
+### A lovely, (un)uniform quilt
 Although the uniform distribution is very graphically predictable, we can still create art with it, in the form of a probabilistic quilt! 
 In this scenario, you're a quilt-maker with fabric of every imaginable color available to you. You close your eyes and randomly point to and select one color of fabric for each quilt patch, roll a die to choose one of six patterns for the patch, spin a spinner with three options to choose among three shapes for your patch (circle, diamond, or none), and roll another die and pick another random color if you chose a shape.
 Repeat this process 16 times for each patch, and the result would look something like this:
