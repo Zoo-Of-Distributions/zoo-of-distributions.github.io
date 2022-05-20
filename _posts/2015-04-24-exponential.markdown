@@ -4,7 +4,7 @@ subtitle: "The distribution for the amount of time before something occurs."
 image: "img/exponential.JPG"
 ---
 
-### Your own Mondrian
+### Your own Mondrian:
 <p class="codepen" data-height="560" data-theme-id="dark" data-default-tab="result" data-slug-hash="PoQjYbZ" data-user="worldsenddunce" style="height: 560px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/worldsenddunce/pen/PoQjYbZ">
   Untitled</a> by Ari (<a href="https://codepen.io/worldsenddunce">@worldsenddunce</a>)
