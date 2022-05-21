@@ -3,7 +3,7 @@ title:  "Exponential"
 subtitle: "The distribution for the amount of time before something occurs."
 image: "img/exponential.JPG"
 ---
-The exponential distribution looks like a steep slope going down. It has one parameter: the amount of time it usually takes before something occurs. The situations this distribution models are usually framed as "Time until the next X," such as the time until the next major earthquake, how long your phone battery lasts (time until it dies), and the time until your next nap. 
+The graph of the exponential distribution is a steep, downward slope. It has one parameter: the amount of time it usually takes before something occurs. The situations this distribution models are usually framed as "Time until the next X," such as the time until the next major earthquake, how long your phone battery lasts (time until it dies), and the time until your next nap. 
 ### Your own Mondrian:
 Here's a visual example of the exponential distribution at work. On average, this exponential draws lines a bit left of center (and repeats it in the horizontal direction), though the lines are quite spread out.
 <p class="codepen" data-height="560" data-theme-id="dark" data-default-tab="result" data-slug-hash="PoQjYbZ" data-user="worldsenddunce" style="height: 560px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
