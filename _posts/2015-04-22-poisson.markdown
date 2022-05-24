@@ -4,12 +4,13 @@ subtitle: "Despite its name, this distribution is not toxic. Measures the amount
 image: "img/poisson.jpg"
 date:   2015-04-22 12:12:12
 ---
-
+The Poisson distribution is discrete, and it has one parameter-- the expected amount of times something occurs in a given timeframe (lambda). This is quite neat, as the number of occurences is a whole number despite time being continuous! The number of times you greet friends in a day, stub your toe in a month, or yawn in a long meeting or lecture are just a few examples of Poissons in everyday life.
 ### One Poisson, Two Poisson...
-Did you know that poisson means fish in French? This means we can use the poisson to model the number of "poisson" that swim by in a given window:
+Did you know that poisson means fish in French? This means we can use the poisson to model the number of "poisson" that swim by in a given window. Try it yourself, and notice that as the lambda parameter gets bigger, the average number of fish that show up increases as well:
 <p class="codepen" data-height="787" data-theme-id="dark" data-default-tab="result" data-slug-hash="qBxjdgW" data-user="worldsenddunce" style="height: 787px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/worldsenddunce/pen/qBxjdgW">
   Poisson Poisson</a> by Ari (<a href="https://codepen.io/worldsenddunce">@worldsenddunce</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+(The fishies like to jump out of the pond quite a bit-- it's a "feature," not a bug)
