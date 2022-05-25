@@ -1,15 +1,5 @@
 
 /*CARD */
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
 .card {
 	position: relative;
 	float: left;
@@ -246,7 +236,16 @@ a:hover,
 a:focus {
 	color: #3b393d;
 }
-
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
 .body {
 	background: #acaad1;
 }
