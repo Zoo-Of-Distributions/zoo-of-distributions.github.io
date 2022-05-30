@@ -7,4 +7,11 @@ date:   2015-04-21 12:12:12
 The Binomial and Geometric distributions are both made up of the same fundamental unit: trials. Each trial is an attempt at a task that can result in a success or failure. The Binomial models the probability of a certain number of successes in n trials. Examples of the binomial are the number of hoops you make if you shoot a basketball n times, the number of orange M&M's you find in any given packet of M&M's, or the number of times you flip heads in n coin flips.
 
 ### Binomial Joy
-The binomial has a nice, symmetric shape. It has two parameters, the number of trials you're attempting, n, and p, the probability of success for any given trial. The center and spread of a distribution changes as you tweak with these two parameters. Try it yourself by recreating this popular pattern, binomial style!
+The binomial has a nice, symmetric shape. It has two parameters, the number of trials you're attempting, n, and p, the probability of success for any given trial. The center and spread of a distribution changes as you tweak with these two parameters. Try creating some jagged, binomial art:
+
+<p class="codepen" data-height="436" data-theme-id="dark" data-default-tab="result" data-slug-hash="ExQwzww" data-preview="true" data-user="worldsenddunce" style="height: 436px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/worldsenddunce/pen/ExQwzww">
+  Binomial Joy</a> by Ari (<a href="https://codepen.io/worldsenddunce">@worldsenddunce</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
