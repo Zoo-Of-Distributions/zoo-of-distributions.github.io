@@ -1,8 +1,9 @@
 ---
 title:  "Poisson"
 subtitle: "Despite its name, this distribution is not toxic. Measures the amount of times something occurs within a given period."
+avatar: "img/authors/city's_night_square.jpg"
 image: "img/poisson.jpg"
-date:   2015-04-22 12:12:12
+date:   2022-05-27 12:12:12
 ---
 The Poisson distribution is discrete, and it has one parameter: the expected amount of times something occurs in a given timeframe (lambda). This is quite neat, as the number of occurences is a whole number despite time being continuous! The number of times you greet someone you know in a day, stub your toe in a month, or yawn in a long meeting or lecture are just a few examples of Poissons in everyday life.
 ### One Poisson, Two Poisson...
