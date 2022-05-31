@@ -15,3 +15,5 @@ Did you know that poisson means fish in French? This means we can use the poisso
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 (The fishies like to jump out of the pond quite a bit-- it's a "feature," not a bug)
+<br>
+Check out the generative art of [**<ins>other distributions!</ins>**](https://zoo-of-distributions.github.io/)
