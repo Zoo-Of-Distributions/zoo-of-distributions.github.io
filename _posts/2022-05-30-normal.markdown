@@ -19,4 +19,6 @@ Experiment with the parameters and colors below to create your colony of living 
 Notice that brighter colors correspond with denser parts of the distribution. The densest part of the normal is always around your specified mean location (the horizontal and vertical positioning). You can shrink or grow the width of your normal by changing the standard deviation as well.
 \
 \
+\
+\
 Check out the generative art of [**<ins>other distributions!</ins>**](https://zoo-of-distributions.github.io/)
