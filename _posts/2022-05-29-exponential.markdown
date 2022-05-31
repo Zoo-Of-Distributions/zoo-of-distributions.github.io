@@ -15,3 +15,5 @@ Here's a visual example of the exponential distribution at work. On average, thi
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 Notice that the timing of the drawn lines are also exponentially distributed-- the further left (or to the top) a line is, the faster it's drawn into the canvas!
+<br>
+Check out the generative art of [**<ins>other distributions!</ins>**](https://zoo-of-distributions.github.io/)
