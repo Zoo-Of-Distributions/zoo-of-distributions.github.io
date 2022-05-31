@@ -135,7 +135,7 @@
 	align-items: center;
 }
 
-.meta__avatar {
+/* .meta__avatar {
 	border-radius: 50%;
 	height: 50px;
 	width: 50px;
@@ -144,7 +144,7 @@
 .meta__author {
 	font-weight: bold;
 	padding: 0 15px;
-}
+} */
 
 .meta__date {
 	margin: 0 0 0 auto;
