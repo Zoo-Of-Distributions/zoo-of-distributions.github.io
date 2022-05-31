@@ -1,7 +1,9 @@
 ---
 title:  "Exponential"
 subtitle: "The distribution for the amount of time before something occurs."
+avatar: "img/authors/city's_night_square.jpg"
 image: "img/exponential.JPG"
+date: 2022-05-29 12:12:12
 ---
 The graph of the exponential distribution is a steep, downward slope. It has one parameter: the amount of time it usually takes before something occurs. The situations this distribution models are usually framed as "Time until the next X," such as the time until the next major earthquake, how long your phone battery lasts (time until it dies), and the time until your next nap. 
 ### Your own Mondrian (kind of)
