@@ -7,7 +7,7 @@ The Normal disribution, AKA Gaussian or bell curve, dictates many natural phenom
 
 ### Creating (Better Than) Normal Art:
 The Normal can be defined using two parameters: mean (the average value of something) and variance (how spread out the distribution is-- though for our purposes, we'll use the standard deviation, which is the square root of the variance). You can use normal distributions and a bit of computer magic to create unique, probabilistic art!
-Experiment with the parameters below and colors to create your colony of living 2D normal distributions:
+Experiment with the parameters and colors below to create your colony of living 2D normal distributions:
 <p class="codepen" data-height="619" data-theme-id="dark" data-default-tab="result" data-slug-hash="dydvjdZ" data-user="worldsenddunce" style="height: 619px; width: 270px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/worldsenddunce/pen/dydvjdZ">
   Living Normal</a> by Ari (<a href="https://codepen.io/worldsenddunce">@worldsenddunce</a>)
