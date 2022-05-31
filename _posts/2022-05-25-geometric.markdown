@@ -16,3 +16,5 @@ Try creating a forest of trees that follows the geometric distribution. In this 
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 Notice that as p gets larger, on average, the trees get shorter.
+<br>
+Check out the generative art of [**<ins>other distributions!</ins>**](https://zoo-of-distributions.github.io/)
