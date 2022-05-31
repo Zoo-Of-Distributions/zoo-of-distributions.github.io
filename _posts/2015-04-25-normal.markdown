@@ -1,7 +1,9 @@
 ---
 title:  "Normal"
 subtitle: "The poster child of distributions. Shows up the most often."
+avatar: "img/authors/city's_night_square.jpg"
 image: "img/normal.jpg"
+date: -
 ---
 The Normal disribution, AKA Gaussian or bell curve, dictates many natural phenomena such as height (most people are around average height, with fewer tall and short people), IQ, shoe size, etc. The graph of sample measures from even the weirdest distributions also tend towards the Normal (something called the [**Central Limit Theorem**](https://en.wikipedia.org/wiki/Central_limit_theorem){:target="_blank"}).
 
