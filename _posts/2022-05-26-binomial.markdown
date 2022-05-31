@@ -5,7 +5,7 @@ avatar: "img/authors/city's_night_square.jpg"
 image: "img/binomial.jpg"
 date:   2022-05-26 12:12:12
 ---
-The Binomial and Geometric distributions are both made up of the same fundamental unit: trials. Each trial is an attempt at a task that can result in a success or failure. The Binomial models the probability of a certain number of successes in n trials. Examples of the binomial are the number of hoops you make if you shoot a basketball n times, the number of orange M&M's you find in any given packet of M&M's, or the number of times you flip heads in n coin flips.
+The Binomial and Geometric distributions are both made up of the same fundamental unit: trials. Each trial is an attempt at a task that can result in a success or failure. The Binomial models the probability of the number of successes in n trials (giving us the probability of 0 up to n successes occurring). Examples of the binomial are the number of hoops you make if you shoot a basketball n times, the number of orange M&M's you find in any given packet of M&M's, or the number of times you flip heads in n coin flips.
 
 ### Binomial Joy
 The binomial has a nice, symmetric shape. It has two parameters: n, the number of trials you're attempting, and p, the probability of success for any given trial. The center and spread of a distribution changes as you tweak with these two parameters. Try creating some jagged, binomial art:
