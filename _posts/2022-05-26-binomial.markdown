@@ -10,7 +10,7 @@ The Binomial and Geometric distributions are both made up of the same fundamenta
 ### Binomial Joy
 The binomial has a nice, symmetric shape. It has two parameters: n, the number of trials you're attempting, and p, the probability of success for any given trial. The center and spread of a distribution changes as you tweak with these two parameters. Try creating some jagged, binomial art:
 
-<p class="codepen" data-height="436" data-theme-id="dark" data-default-tab="result" data-slug-hash="ExQwzww" data-preview="true" data-user="worldsenddunce" style="height: 436px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<p class="codepen" data-height="540" data-theme-id="dark" data-default-tab="result" data-slug-hash="ExQwzww" data-user="worldsenddunce" style="height: 540px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/worldsenddunce/pen/ExQwzww">
   Binomial Joy</a> by Ari (<a href="https://codepen.io/worldsenddunce">@worldsenddunce</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
