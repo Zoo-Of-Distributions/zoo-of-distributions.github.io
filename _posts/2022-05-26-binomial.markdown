@@ -16,6 +16,7 @@ The binomial has a nice, symmetric shape. It has two parameters: n, the number o
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+The mean of a binomial is np, so it decreases and increases with p. You can see this change in mean represented by the peak of the binomial shifting left and right as you change p!
 \
 \
 \
